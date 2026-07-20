@@ -10,6 +10,20 @@ This project uses OpenCV, dlib, and facial landmarks to detect blinks and drowsi
 - Optional alarm sound
 - Video output recording
 
+## Project Images
+
+### Face Detection
+
+![Face detection example](face.PNG)
+
+### Eye Landmark View
+
+![Eye landmark example](eye.PNG)
+
+### Eye Aspect Ratio
+
+![Eye aspect ratio diagram](eye_aspect_ratio.PNG)
+
 ## Requirements
 
 - Python 3.8 or newer
